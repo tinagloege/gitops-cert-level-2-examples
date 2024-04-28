@@ -10,7 +10,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/codefresh-contrib/gitops-cert-level-2-examples.git
+    repoURL: ghcr.io/tinagloege/gitops-cert-level-2-examples:1.0
     targetRevision: HEAD
     path: ./image-updater/example-app/envs/qa/
    
