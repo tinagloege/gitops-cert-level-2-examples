@@ -30,5 +30,5 @@ spec:
   - group: apps
     kind: Deployment
     jsonPointers:
-    - /metadata/creation
+    - /metadata/annotations/creation
    
